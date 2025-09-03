@@ -1,0 +1,15 @@
+# Node / Next
+node_modules/
+.next/
+.DS_Store
+
+# ローカルだけの設定
+.env
+.vercel
+
+# 画像の大容量を避ける（必要なら後で一部だけ入れる）
+public/files/
+public/previews/
+
+# その他
+*.log

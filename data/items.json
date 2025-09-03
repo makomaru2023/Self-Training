@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "sozai-001",
+      "title": "【文字あり】sozai-001",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/previews/sozai-001.png",
+      "fileKey": "/files/sozai-001.png",
+      "free": true
+    },
+    {
+      "id": "sozai-002",
+      "title": "【文字なし】sozai-002",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-002.png",
+      "fileKey": "/files/sozai-002.png",
+      "free": true
+    },
+    {
+      "id": "sozai-003",
+      "title": "【文字なし】sozai-003",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-003.png",
+      "fileKey": "/files/sozai-003.png",
+      "free": true
+    },
+    {
+      "id": "sozai-004",
+      "title": "【文字あり】sozai-004",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-004.png",
+      "fileKey": "/files/sozai-004.png",
+      "free": true
+    },
+    {
+      "id": "sozai-005",
+      "title": "【文字なし】sozai-005",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-005.png",
+      "fileKey": "/files/sozai-005.png",
+      "free": true
+    },
+    {
+      "id": "sozai-006",
+      "title": "【文字あり】sozai-006",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-006.png",
+      "fileKey": "/files/sozai-006.png",
+      "free": true
+    },
+    {
+      "id": "sozai-007",
+      "title": "【文字なし】sozai-007",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-007.png",
+      "fileKey": "/files/sozai-007.png",
+      "free": true
+    },
+    {
+      "id": "sozai-008",
+      "title": "【文字あり】sozai-008",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-008.png",
+      "fileKey": "/files/sozai-008.png",
+      "free": true
+    },
+    {
+      "id": "sozai-009",
+      "title": "【文字なし】sozai-009",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-009.png",
+      "fileKey": "/files/sozai-009.png",
+      "free": true
+    },
+    {
+      "id": "sozai-010",
+      "title": "【文字あり】sozai-010",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-010.png",
+      "fileKey": "/files/sozai-010.png",
+      "free": true
+    },
+    {
+      "id": "sozai-011",
+      "title": "【文字なし】sozai-011",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-011.png",
+      "fileKey": "/files/sozai-011.png",
+      "free": true
+    },
+    {
+      "id": "sozai-012",
+      "title": "【文字あり】sozai-012",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-012.png",
+      "fileKey": "/files/sozai-012.png",
+      "free": true
+    },
+    {
+      "id": "sozai-013",
+      "title": "【文字なし】sozai-013",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-013.png",
+      "fileKey": "/files/sozai-013.png",
+      "free": true
+    },
+    {
+      "id": "sozai-014",
+      "title": "【文字あり】sozai-014",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-014.png",
+      "fileKey": "/files/sozai-014.png",
+      "free": true
+    },
+    {
+      "id": "sozai-015",
+      "title": "【文字なし】sozai-015",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-015.png",
+      "fileKey": "/files/sozai-015.png",
+      "free": true
+    },
+    {
+      "id": "sozai-016",
+      "title": "【文字あり】sozai-016",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-016.png",
+      "fileKey": "/files/sozai-016.png",
+      "free": true
+    },
+    {
+      "id": "sozai-017",
+      "title": "【文字なし】sozai-017",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-017.png",
+      "fileKey": "/files/sozai-017.png",
+      "free": true
+    },
+    {
+      "id": "sozai-018",
+      "title": "【文字あり】sozai-018",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-018.png",
+      "fileKey": "/files/sozai-018.png",
+      "free": true
+    },
+    {
+      "id": "sozai-019",
+      "title": "【文字なし】sozai-019",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-019.png",
+      "fileKey": "/files/sozai-019.png",
+      "free": true
+    },
+    {
+      "id": "sozai-020",
+      "title": "【文字あり】sozai-020",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-020.png",
+      "fileKey": "/files/sozai-020.png",
+      "free": true
+    },
+    {
+      "id": "sozai-021",
+      "title": "【文字なし】sozai-021",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-021.png",
+      "fileKey": "/files/sozai-021.png",
+      "free": true
+    },
+    {
+      "id": "sozai-022",
+      "title": "【文字あり】sozai-022",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-022.png",
+      "fileKey": "/files/sozai-022.png",
+      "free": true
+    },
+    {
+      "id": "sozai-023",
+      "title": "【文字なし】sozai-023",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-023.png",
+      "fileKey": "/files/sozai-023.png",
+      "free": true
+    },
+    {
+      "id": "sozai-024",
+      "title": "【文字あり】sozai-024",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-024.png",
+      "fileKey": "/files/sozai-024.png",
+      "free": true
+    },
+    {
+      "id": "sozai-025",
+      "title": "【文字なし】sozai-025",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-025.png",
+      "fileKey": "/files/sozai-025.png",
+      "free": true
+    },
+    {
+      "id": "sozai-026",
+      "title": "【文字あり】sozai-026",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-026.png",
+      "fileKey": "/files/sozai-026.png",
+      "free": true
+    },
+    {
+      "id": "sozai-027",
+      "title": "【文字なし】sozai-027",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-027.png",
+      "fileKey": "/files/sozai-027.png",
+      "free": true
+    },
+    {
+      "id": "sozai-028",
+      "title": "【文字あり】sozai-028",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-028.png",
+      "fileKey": "/files/sozai-028.png",
+      "free": true
+    },
+    {
+      "id": "sozai-029",
+      "title": "【文字なし】sozai-029",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-029.png",
+      "fileKey": "/files/sozai-029.png",
+      "free": true
+    },
+    {
+      "id": "sozai-030",
+      "title": "【文字あり】sozai-030",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-030.png",
+      "fileKey": "/files/sozai-030.png",
+      "free": true
+    },
+    {
+      "id": "sozai-031",
+      "title": "【文字なし】sozai-031",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-031.png",
+      "fileKey": "/files/sozai-031.png",
+      "free": true
+    },
+    {
+      "id": "sozai-032",
+      "title": "【文字あり】sozai-032",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-032.png",
+      "fileKey": "/files/sozai-032.png",
+      "free": true
+    },
+    {
+      "id": "sozai-033",
+      "title": "【文字なし】sozai-033",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-033.png",
+      "fileKey": "/files/sozai-033.png",
+      "free": true
+    },
+    {
+      "id": "sozai-034",
+      "title": "【文字あり】sozai-034",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-034.png",
+      "fileKey": "/files/sozai-034.png",
+      "free": true
+    },
+    {
+      "id": "sozai-035",
+      "title": "【文字なし】sozai-035",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-035.png",
+      "fileKey": "/files/sozai-035.png",
+      "free": true
+    },
+    {
+      "id": "sozai-036",
+      "title": "【文字あり】sozai-036",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-036.png",
+      "fileKey": "/files/sozai-036.png",
+      "free": true
+    },
+    {
+      "id": "sozai-037",
+      "title": "【文字なし】sozai-037",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-037.png",
+      "fileKey": "/files/sozai-037.png",
+      "free": true
+    },
+    {
+      "id": "sozai-038",
+      "title": "【文字あり】sozai-038",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-038.png",
+      "fileKey": "/files/sozai-038.png",
+      "free": true
+    },
+    {
+      "id": "sozai-039",
+      "title": "【文字なし】sozai-039",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-039.png",
+      "fileKey": "/files/sozai-039.png",
+      "free": true
+    },
+    {
+      "id": "sozai-040",
+      "title": "【文字あり】sozai-040",
+      "category": "upper",
+      "posture": "sitting",
+      "previewSrc": "/files/sozai-040.png",
+      "fileKey": "/files/sozai-040.png",
+      "free": true
+    }
+  ]
+}
