@@ -6,7 +6,6 @@ import Footer from '@/components/Footer'
 export default function PricingPage() {
   return (
     <main>
-      <Header />
       <PricingTable />
       <Footer />
     </main>
