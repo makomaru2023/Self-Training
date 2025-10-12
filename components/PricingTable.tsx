@@ -34,20 +34,20 @@ const planCopy = {
     name: 'Pro',
     price: '¥1,980',
     unit: '買い切り',
-    tagline: '常設100点のコレクションをまとめて入手',
+    tagline: 'Basicの40点＋別種60点で合計100点の実用パック',
     bullets: [
-      'すぐ使える常設100点をDL可',
+      'Basicの40点に加え、別種の60点を追加',
       '配布用：無透かしPNG等（商用OK）',
       '院内資料・指導用プリントに◎',
       '更新の影響を受けない安定ストック',
     ],
-    note: '※ コンテンツは100点で固定（毎月の入替対象外）。',
+    note: '※ Proは独自60点を含む合計100点構成（毎月の入替対象外）。',
   },
   premium: {
     name: 'Premium',
     price: '¥2,980',
     unit: '買い切り',
-    tagline: '200点＋以降の新作も優先追加予定の最上位パック',
+    tagline: '200点一括＋以降の新作優先追加の最上位パック',
     bullets: [
       'スタート200点を一括DL',
       '以降の新作も優先反映（設計上の最上位）',
@@ -118,9 +118,9 @@ function PlanCard({
         ))}
       </ul>
 
-      {p.note && <p className="mt-4 text-xs text-gray-500">{p.note}</p>}
+      <div className="mt-auto pt-6 space-y-3">
+        {p.note && <p className="text-xs text-gray-500">{p.note}</p>}
 
-      <div className="mt-auto pt-6">
         <Link
           href={href}
           onClick={isFree ? undefined : onCheckout}
